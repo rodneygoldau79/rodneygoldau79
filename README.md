@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Rodney! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Phishing Simulator]()
+
+
+<h2>📃 Certifications</h2>
+
+ - [Google Cybersecurity](https://coursera.org/share/b870253f1648f6b2f89836689d1064a2)
+
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**rodneygoldau79/rodneygoldau79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
