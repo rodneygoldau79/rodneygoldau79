@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Phishing Simulator]()
-
+  - [game-cheat-detection-simulation]()
 
 <h2>📃 Certifications</h2>
 
