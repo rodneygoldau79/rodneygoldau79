@@ -2,12 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Game Cheat Detection Simulation](https://github.com/rodneygoldau79/game-cheat-detection-simulation)
+ - [Game Cheat Detection Simulation](https://github.com/rodneygoldau79/game-cheat-detection-simulation)
 
+ - [Phishing Email Simulation](https://github.com/rodneygoldau79/phishing-email-detection-simulator)
+ 
 <h2>📃 Certifications</h2>
 
  - [Google Cybersecurity](https://coursera.org/share/b870253f1648f6b2f89836689d1064a2)
-
+ 
+ 
   
 <h2> 🤳 Connect with me:</h2>
 
