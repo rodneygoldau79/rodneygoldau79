@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Phishing Simulator]()
-  - [game-cheat-detection-simulation]()
+  - [Game Cheat Detection Simulation](https://github.com/rodneygoldau79/game-cheat-detection-simulation)
 
 <h2>📃 Certifications</h2>
 
